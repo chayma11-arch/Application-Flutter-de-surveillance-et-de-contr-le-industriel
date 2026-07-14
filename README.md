@@ -42,6 +42,3 @@ The application communicates with the ESP32-S3 central node via the **MQTT proto
 - Remote control of actuators (Servo motor, LEDs)
 - Manual override for industrial control
 - Scheduled automation
----
-
-### Architecture
